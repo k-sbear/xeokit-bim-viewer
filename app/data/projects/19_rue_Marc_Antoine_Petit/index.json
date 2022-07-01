@@ -1,0 +1,31 @@
+{
+    "id": "19_rue_Marc_Antoine_Petit",
+    "name": "19_rue_Marc_Antoine_Petit",
+    "models": [
+        {
+            "id": "design",
+            "name": "19_rue_Marc_Antoine_Petit",
+            "backfaces": false
+        }
+    ],
+    "viewerConfigs": {
+        "backgroundColor": [
+            0.95,
+            0.95,
+            1.0
+        ]
+    },
+    "viewerContent": {
+        "modelsLoaded": [
+            "design"
+        ]
+    },
+    "viewerState": {
+        "tabOpen": "classes",
+        "expandObjectsTree": 3,
+        "expandClassesTree": 1,
+        "expandStoreysTree": 1,
+        "saoEnabled": "true",
+        "objectColorSource": "viewer"
+    }
+}
